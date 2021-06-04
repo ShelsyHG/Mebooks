@@ -1,0 +1,23 @@
+/************ Sistema de espera CARGADOR  ************/
+#div_carga
+{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+	display:none;
+    z-index:50000;
+    opacity: .7;
+    background-color: rgb(255, 255, 255);
+}
+
+#cargador
+{
+    position:fixed;
+    top:50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+/****************************************************/
